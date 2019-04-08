@@ -9,25 +9,19 @@
 This is a simple webpage containing flashcards that toggle on and off
 
 ## Setup/Installation Requirements
-
-* type in url
-
+using command line, clone github repo by typing: git clone https://github.com/samstoia/flashcards
+find the file on your computer
+open the desired html file in your browser.
 ## Known Bugs
-
-No known bugs
+So far no known bugs
 
 ## Support and contact details
-
-email:
-  Micaela Jawor: micaelajawor@yahoo.com
-  Sam Stoia: samstoia@gmail.com
+If you run into any issues or have questions, ideas or concerns, or want to make a contribution to the code please contact me at samstoia@gmail.com.
 
 ## Technologies Used
-
-Atom, jQuery, Bootstrap
-
-### License
-
-*MIT*
-
-Copyright (c) 2019 **_Micaela Jawor, Sam Stoia_**
+* HTML
+* CSS
+* Atom
+* Git Bash
+## License
+Copyright (c) 2019 GitHub Inc. All rights reserved.
